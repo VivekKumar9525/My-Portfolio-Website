@@ -21,11 +21,11 @@ Welcome to my portfolio website! This site showcases my projects, skills, and ex
 ## Usage
 After installing and starting the server, you can navigate through the different sections of the website:
 
-Home: Brief introduction and welcome message.
-About: More detailed information about my background and experience.
-Projects: Showcase of my work with descriptions and links.
-Skills: List of my technical skills.
-Contact: Form to get in touch with me.
+- Home: Brief introduction and welcome message.
+- About: More detailed information about my background and experience.
+- Projects: Showcase of my work with descriptions and links.
+- Skills: List of my technical skills.
+- Contact: Form to get in touch with me.
 
 ## Deployment
 My Portfolio Website is deployed and can be accessed [here](https://vivekkumar9525.github.io/My-Portfolio-Website/).
@@ -39,7 +39,8 @@ This project is licensed under the MIT [License](https://vivekkumar9525.github.i
 ## Contact
 If you have any questions or feedback, feel free to reach out to me at:
 
-Email: vivekjaiswal3571@gmail.com
-LinkedIn: [Linked In](https://www.linkedin.com/in/vivek-kumar-866bb425b/)
+- Email: vivekjaiswal3571@gmail.com
+- LinkedIn: [Linked In](https://www.linkedin.com/in/vivek-kumar-866bb425b/)
+
 
 Thank you for visiting my portfolio website!
